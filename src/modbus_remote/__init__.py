@@ -16,7 +16,7 @@ from .modbus_models import (
         )
 from .micro_nabto.micro_nabto import ( MicroNabto )
 
-__version__ = "0.0.0"
+__version__ = "0.1.0"
 __all__ = [
     "ModbusDevice",
     "ModbusDeviceAdapter",
